@@ -1,0 +1,8 @@
+﻿  OpenGLMeshLoader.cpp
+f:\summer 19\graphics\project\lab_7_29542\lab_7\lab 7\openglmeshloader\texturebuilder.h(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+f:\summer 19\graphics\project\lab_7_29542\lab_7\lab 7\openglmeshloader\texturebuilder.h(28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+f:\summer 19\graphics\project\lab_7_29542\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(92): warning C4101: 'i': unreferenced local variable
+f:\summer 19\graphics\project\lab_7_29542\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(672): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> F:\Summer 19\Graphics\Project\Lab_7_29542\Lab_7\Lab 7\OpenGLMeshLoader\Debug\OpenGLMeshLoader.exe
